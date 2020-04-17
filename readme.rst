@@ -71,11 +71,10 @@ contributors to the CodeIgniter project and you, the CodeIgniter user.
 
 **************
 Para levantar el proyecto se necesita apache2 y el conector de PHP con sqlite.
-En la raíz del servidos apache2 debe estar la carpeta "practica" y dentro el proyecto.
+En la raíz del servidor apache2 debe estar la carpeta "practica" y dentro el proyecto.
 Existen 2 usuarios para poder ingresar:
 
 Usuario 1:
-
 user: 1
 pass: 100
 
@@ -85,7 +84,7 @@ pass: 200
 
 Para probar el proyecto en un servidor de alojamiento puede entrar a la página:
 https://pag753.000webhostapp.com/practica/#/
-con las credenciales dicas anteriormente y la capa de pwa la puede encontrar en el repositorio:
+con las credenciales dichas anteriormente y la capa de pwa la puede encontrar en el repositorio:
 https://github.com/pag753/practica_front
 
 Quedo a tus ordenes al correo: pag753@gmail.com
